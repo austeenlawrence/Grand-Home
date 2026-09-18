@@ -1,0 +1,6 @@
+{
+  "name": "Grand Home - Modern Luxury Furniture",
+  "description": "Premier modern luxury furniture showroom in Sector 10, Noida featuring bespoke sofas, beds, dining tables, wardrobes, and curated architectural interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
